@@ -1,0 +1,260 @@
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000577 | Comuptation duration: 2.676482 | Output transfer duration 0.001847
+Fpga total time 3.016659; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000559 | Comuptation duration: 2.676430 | Output transfer duration 0.001821
+Fpga total time 3.016633; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000656 | Comuptation duration: 2.676497 | Output transfer duration 0.001765
+Fpga total time 3.016749; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000651 | Comuptation duration: 2.676543 | Output transfer duration 0.001734
+Fpga total time 3.016849; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000651 | Comuptation duration: 2.676547 | Output transfer duration 0.001762
+Fpga total time 3.016817; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000693 | Comuptation duration: 2.676537 | Output transfer duration 0.001803
+Fpga total time 3.016881; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000651 | Comuptation duration: 2.676525 | Output transfer duration 0.001776
+Fpga total time 3.016825; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000643 | Comuptation duration: 2.676447 | Output transfer duration 0.001741
+Fpga total time 3.016670; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000657 | Comuptation duration: 2.676539 | Output transfer duration 0.001740
+Fpga total time 3.016788; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000701 | Comuptation duration: 2.676321 | Output transfer duration 0.001806
+Fpga total time 3.016686; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000725 | Comuptation duration: 2.676457 | Output transfer duration 0.001830
+Fpga total time 3.016848; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000651 | Comuptation duration: 2.676542 | Output transfer duration 0.001751
+Fpga total time 3.016787; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000302 | Comuptation duration: 2.677128 | Output transfer duration 0.001844
+Fpga total time 3.017204; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000717 | Comuptation duration: 2.676463 | Output transfer duration 0.001856
+Fpga total time 3.016869; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000654 | Comuptation duration: 2.676544 | Output transfer duration 0.001734
+Fpga total time 3.016864; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000562 | Comuptation duration: 2.676434 | Output transfer duration 0.001795
+Fpga total time 3.016654; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000567 | Comuptation duration: 2.676423 | Output transfer duration 0.001816
+Fpga total time 3.016643; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000655 | Comuptation duration: 2.676544 | Output transfer duration 0.001749
+Fpga total time 3.016763; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000710 | Comuptation duration: 2.676412 | Output transfer duration 0.001801
+Fpga total time 3.016845; Python total time = 3.943991
+
+PRINT ENDED!
+
+INFO: Found 1 platforms
+INFO: Selected platform 0 from Xilinx
+INFO: Analyzing device: xilinx:adm-pcie-ku3:2ddr-xpr:4.0
+INFO: Selected xilinx:adm-pcie-ku3:2ddr-xpr:4.0 as the target device
+INFO: Loading kernel_ku3.xclbin
+
+HW COMPUTATION ENDED!
+
+Input transfer duration: 0.000720 | Comuptation duration: 2.676410 | Output transfer duration 0.001813
+Fpga total time 3.016769; Python total time = 3.943991
+
+PRINT ENDED!
+

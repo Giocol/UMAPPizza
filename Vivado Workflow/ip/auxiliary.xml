@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xd:acceleratorMap xmlns:xd="http://www.xilinx.com/xidane" xd:functionName="nn_descent" xd:componentRef="nn_descent" xd:initiationInterval="x" xd:clockPeriod="10.000000" xd:sequential="true" xd:hostMachine="64" xd:reset="control">
+  <xd:controlReg xd:name="control" xd:interfaceRef="s_axi_control" xd:busTypeRef="axilite" xd:type="generic_axi_lite" xd:offset="0x0"/>
+  <xd:arg xd:name="data_in[]" xd:originalName="data_in" xd:direction="inout" xd:interfaceRef="m_axi_hostmem" xd:busTypeRef="aximm" xd:dataPack="true" xd:bitMapping="31:0" xd:arraySize="300" xd:dataWidth="32" xd:bufferDirection="in"/>
+  <xd:arg xd:name="rng_state[]" xd:originalName="rng_state" xd:direction="inout" xd:interfaceRef="m_axi_hostmem" xd:busTypeRef="aximm" xd:dataPack="true" xd:bitMapping="31:0" xd:arraySize="3" xd:dataWidth="32" xd:bufferDirection="inout"/>
+  <xd:arg xd:name="result_out_index[]" xd:originalName="result_out_index" xd:direction="inout" xd:interfaceRef="m_axi_hostmem" xd:busTypeRef="aximm" xd:dataPack="true" xd:bitMapping="31:0" xd:arraySize="1000" xd:dataWidth="32" xd:bufferDirection="out"/>
+  <xd:arg xd:name="result_out_dist[]" xd:originalName="result_out_dist" xd:direction="inout" xd:interfaceRef="m_axi_hostmem" xd:busTypeRef="aximm" xd:dataPack="true" xd:bitMapping="31:0" xd:arraySize="1000" xd:dataWidth="32" xd:bufferDirection="out"/>
+  <xd:arg xd:name="data_in" xd:originalName="data_in" xd:direction="in" xd:interfaceRef="s_axi_control" xd:busTypeRef="axilite" xd:aximmInterfaceRef="m_axi_hostmem" xd:dataWidth="32" xd:offset="0x10" xd:handshakeRef="ap_none"/>
+  <xd:arg xd:name="rng_state" xd:originalName="rng_state" xd:direction="in" xd:interfaceRef="s_axi_control" xd:busTypeRef="axilite" xd:aximmInterfaceRef="m_axi_hostmem" xd:dataWidth="32" xd:offset="0x18" xd:handshakeRef="ap_none"/>
+  <xd:arg xd:name="result_out_index" xd:originalName="result_out_index" xd:direction="in" xd:interfaceRef="s_axi_control" xd:busTypeRef="axilite" xd:aximmInterfaceRef="m_axi_hostmem" xd:dataWidth="32" xd:offset="0x20" xd:handshakeRef="ap_none"/>
+  <xd:arg xd:name="result_out_dist" xd:originalName="result_out_dist" xd:direction="in" xd:interfaceRef="s_axi_control" xd:busTypeRef="axilite" xd:aximmInterfaceRef="m_axi_hostmem" xd:dataWidth="32" xd:offset="0x28" xd:handshakeRef="ap_none"/>
+  <xd:latencyEstimates xd:best-case="undef" xd:worst-case="undef" xd:average-case="undef"/>
+  <xd:resourceEstimates xd:LUT="9207" xd:FF="10620" xd:BRAM="26" xd:DSP="12"/>
+</xd:acceleratorMap>

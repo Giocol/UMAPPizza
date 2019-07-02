@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:10 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Wed May 15 11:28:28 2019
+# Process ID: 40797
+# Current directory: /home/users/luca.carminati/Desktop/Project/umappizza_private/hls/PizzaHlsProject/solution1/impl/ip
+# Command line: vivado -notrace -mode batch -source run_ippack.tcl
+# Log file: /home/users/luca.carminati/Desktop/Project/umappizza_private/hls/PizzaHlsProject/solution1/impl/ip/vivado.log
+# Journal file: /home/users/luca.carminati/Desktop/Project/umappizza_private/hls/PizzaHlsProject/solution1/impl/ip/vivado.jou
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
