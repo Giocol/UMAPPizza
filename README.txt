@@ -1,3 +1,5 @@
+GitHub Mirror (orignal repo at https://bitbucket.org/necst/umappizza-public/src/master/)
+
 Team number: 267
 Project name: UmapPizza
 Date: 2019-07-01
